@@ -1,0 +1,40 @@
+.header {
+    background-image: url('images/headerphoto.png');
+    height: 51vw;
+    width: 100vw;
+    background-position-x: -200px;
+    background-position-y: -400px;
+    margin-top: -20px;
+    margin-left: -10px
+}
+
+
+
+.title {
+    font-family: 'Libre Franklin', sans-serif;
+    font-size: 75px;  
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px #000000;
+    margin-top: -100px;
+    margin-left: 650px;
+    border-radius: 20px;
+   
+    
+}
+
+/* .avatar {
+    margin-top: -75px;
+    margin-left: 36vw;
+    height: 150px;
+    width: 150px;  
+    border-radius: 10px;
+} */
+
+
+
+.spons {
+    margin-left: 47vw;
+    margin-top: 10vw;
+    background: rgba(0, 0, 0, 0.146);
+    border-radius: 10px;
+}
